@@ -1,7 +1,7 @@
 # senate-flip
-2026 Senate flip for 2027.
+## 2026 Senate flip for 2027.
 
-# Senate seats flipped 2026
+## Senate seats flipped 2026
 
 Seven Senate seats. At least 24 House districts. Five governorships. Twelve state legislative chambers. 
 By Wednesday afternoon, that’s how far Democrats’ historic midterm rout had reached.
@@ -59,7 +59,33 @@ House contests also yet to be called Wednesday.
 — Kevin Breuninger contributed to this report.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Which Party Controls the Legislature in Each State After the 2026 Elections?
+<table>
+  <thead>
+    <th>Which Party Controls the Legislature in Each State After the 2026 Elections?</th>
+	<th>State</th>
+	<th>Chambers Up</th>
+	<th>Control Before</th>
+	<th>Control After</th>
+	<th>Result</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alabama</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Republican</td>
+	  <td>Republican hold</td>
+	</tr>
+    <tr>
+      <td>Alaska</td>
+	  <td>House and Senate</td>
+	  <td>Split</td>
+	  <td>Not yet called</td>
+	  <td>Not yet called</td>
+	</tr>
+  </tbody>
+</table>
+
 State			Chambers Up			Control Before		Control After		Result
 
 Alabama			House and Senate	Republican			Republican			Republican hold
@@ -155,7 +181,29 @@ Wisconsin		House and Senate	Republican			Democratic			Democratic flip (R → D)
 Wyoming			House and Senate	Republican			Republican			Republican hold
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-U.S. Senate races
+<table>
+  <thead>
+    <th>U.S. Senate races</th>
+	<br>
+	<th>Democrat</th>
+	<th>Republican</th>
+	<br>
+	<th>Poll Close</th>
+	<th>State</th>
+	<th>Leader</th>
+	<th>Est. Votes Counted</th>
+	<th>Number of Votes</th>
+  </thead>
+  <tbody>
+    <tr>
+	  <td>4 pm</td>
+	  <td>D-Georgia</td>
+	  <td>Ossoff +18.1</td>
+	  <td>99%</td>
+	  <td>xxx republican, xxx democrat</td>
+	</tr>
+  </tbody>
+</table>
 Democrat		Republican
 Poll Close		State								Leader			Est. Votes Counted
 4 p.m.			D-Georgia							Ossoff +18.1	99%
