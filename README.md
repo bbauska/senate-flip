@@ -203,7 +203,6 @@ House contests also yet to be called Wednesday.
 	<th>State</th>
 	<th>Leader</th>
 	<th>Est. Votes Counted</th>
-<!--	<th>Number of Votes</th> -->
   </thead>
   <tbody>
     <tr>
@@ -211,7 +210,6 @@ House contests also yet to be called Wednesday.
 	  <td>D-Georgia</td>
 	  <td>Ossoff +18.1</td>
 	  <td>99%</td>
-<!--	  <td>xxx republican, xxx democrat</td> -->
 	</tr>
   </tbody>
 </table>
@@ -249,7 +247,7 @@ House contests also yet to be called Wednesday.
 | 				| Nebraska				| 			Ricketts +6.8	| 94 |
 | 				| New Mexico			| 				Lujan +26.3	| 	98 |
 | 				| South Dakota			| 			Rounds +21		| 99 |
-| 				| Texas					| 			Talarico +12.1	99 |
+| 				| Texas					| 			Talarico +12.1 |	99 |
 | 				| Wyoming				| geman +30.5 | 	97 |
 | 7 p.m.			| Montana			| 	Alme +11.1	| 	95 |
 | 8 p.m.			| Idaho				| 	Risch +23		| 99 |
