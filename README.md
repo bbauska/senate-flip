@@ -59,9 +59,10 @@ House contests also yet to be called Wednesday.
 — Kevin Breuninger contributed to this report.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Which Party Controls the Legislature in Each State After the 2026 Elections?</p>
+
 <table>
   <thead>
-    <th>Which Party Controls the Legislature in Each State After the 2026 Elections?</th>
 	<th>State</th>
 	<th>Chambers Up</th>
 	<th>Control Before</th>
@@ -217,6 +218,7 @@ House contests also yet to be called Wednesday.
 	</tr>
   </tbody>
 </table>
+
 | Democrat		| Republican | 
 | Poll Close 	| State 	| Leader | Est. Votes Counted |
 |---------------|------------|--------------|-----------|--------|--------------------|
