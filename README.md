@@ -217,43 +217,44 @@ House contests also yet to be called Wednesday.
 	</tr>
   </tbody>
 </table>
-Democrat		Republican
-Poll Close		State								Leader			Est. Votes Counted
-4 p.m.			D-Georgia							Ossoff +18.1	99%
-				R-Kentucky							Barr +12.1		99
-				D-South Carolina					Andrews +4.5	99
-				D-Virginia							Warner +22.6	98
-4:30 p.m.		North Carolina						Cooper +19.6	99
-				Ohio Class III Unexpired Term		Brown +4.9		98
-				West Virginia						Capito +20.4	99
-5 p.m.			Alabama								Moore +9.4		99
-				Delaware							Coons +27.1		99
-				Florida Class III Unexpired Term	Moody +2.9		99
-				Illinois							Stratton +23.3	93
-				Maine								Jackson +6.9	91
-				Massachusetts						Markey +31		95
-				Mississippi							Colom +<1		96
-				New Hampshire						Pappas +13.8	94
-				New Jersey							Booker +26.8	94
-				Oklahoma							Hern +17.9		99
-				Rhode Island						Reed +37.5		98
-				Tennessee							Hagerty +12.2	99
-5:30 p.m.		Arkansas							Cotton +11.9	99
-6 p.m.			Colorado							Hickenlooper +24.2		87
-				Iowa								Turek +4.1		99
-				Kansas								Hamilton +5		99
-				Louisiana							Letlow +1.8		99
-				Michigan							El-Sayed +7		98
-				Minnesota							Flanagan +10.1	99
-				Nebraska							Ricketts +6.8	94
-				New Mexico							Lujan +26.3		98
-				South Dakota						Rounds +21		99
-				Texas								Talarico +12.1	99
-				Wyoming								Hageman +30.5	97
-7 p.m.			Montana								Alme +11.1		95
-8 p.m.			Idaho								Risch +23		99
-				Oregon								Merkley +16.5	79
-10 p.m.			Alaska								Peltola +<1		75
+| Democrat		| Republican | 
+| Poll Close 	| State 	| Leader | Est. Votes Counted |
+|---------------|------------|--------------|-----------|--------|--------------------|
+| 4 p.m.		| D-Georgia	 |	Ossoff +18.1	 | 99% |
+| 				| R-Kentucky						| 	Barr +12.1	| 	99 |
+| 				| D-South Carolina					| Andrews +4.5	| 99 |
+| 				| D-Virginia						| 	Warner +22.6	| 98 |
+| 4:30 p.m.		| North Carolina					| Cooper +19.6	| 99 |
+| 				| Ohio Class III Unexpired Term	| 	Brown +4.9		| 98 |
+| 				| West Virginia			| 			Capito +20.4	| 99 |
+| 5 p.m.			| Alabama			| 					Moore +9.4		| 99 |
+| 				| Delaware				| 			Coons +27.1		| 99 |
+| 				| Florida Class III Unexpired Term	| Moody +2.9		| 99 |
+| 				| Illinois				| 			Stratton +23.3	| 93 |
+| 				| Maine					| 			Jackson +6.9	| 91 |
+| 				| Massachusetts			| 			Markey +31		| 95 |
+| 				| Mississippi			| 				Colom +<1	| 	96 |
+| 				| New Hampshire			| 			Pappas +13.8	| 94 |
+| 				| New Jersey			| 				Booker +26.8 | 	94 |
+| 				| Oklahoma				| 			Hern +17.9		| 99 |
+| 				| Rhode Island			| 			Reed +37.5		| 98 |
+| 				| Tennessee				| 			Hagerty +12.2	| 99 |
+| 5:30 p.m.		| Arkansas				| 			Cotton +11.9	| 99 |
+| 6 p.m.			| Colorado			| 				Hickenlooper +24.2	| 	87 |
+| 				| Iowa					| 			Turek +4.1		| 99 |
+| 				| Kansas				| 				Hamilton +5		| 99 |
+| 				| Louisiana				| 			Letlow +1.8		| 99 |
+| 				| Michigan				| 			El-Sayed +7		| 98 |
+| 				| Minnesota				| 			Flanagan +10.1	| 99 |
+| 				| Nebraska				| 			Ricketts +6.8	| 94 |
+| 				| New Mexico			| 				Lujan +26.3	| 	98 |
+| 				| South Dakota			| 			Rounds +21		| 99 |
+| 				| Texas					| 			Talarico +12.1	99 |
+| 				| Wyoming				| geman +30.5 | 	97 |
+| 7 p.m.			| Montana			| 	Alme +11.1	| 	95 |
+| 8 p.m.			| Idaho				| 	Risch +23		| 99 |
+| 				| Oregon				| 	Merkley +16.5	| 79 |
+| 10 p.m.			| Alaska			| Peltola +<1	 | 	75 |
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
