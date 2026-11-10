@@ -1,4 +1,4 @@
-/* ./js/scripts.js of senate-flip for senate-flip.bauska.org */
+/* ./js/script.js of senate-flip for senate-flip.bauska.org */
 (function($) {
   'use strict';
   var has3d,
