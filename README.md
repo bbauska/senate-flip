@@ -195,18 +195,15 @@ House contests also yet to be called Wednesday.
 | Wyoming		| House and Senate	| Republican		| 	Republican			| Republican hold |
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Senate Races Dem/Rep</p>
+
 <table>
   <thead>
-    <th>U.S. Senate races</th>
-	<br>
-	<th>Democrat</th>
-	<th>Republican</th>
-	<br>
 	<th>Poll Close</th>
 	<th>State</th>
 	<th>Leader</th>
 	<th>Est. Votes Counted</th>
-	<th>Number of Votes</th>
+<!--	<th>Number of Votes</th> -->
   </thead>
   <tbody>
     <tr>
@@ -214,7 +211,7 @@ House contests also yet to be called Wednesday.
 	  <td>D-Georgia</td>
 	  <td>Ossoff +18.1</td>
 	  <td>99%</td>
-	  <td>xxx republican, xxx democrat</td>
+<!--	  <td>xxx republican, xxx democrat</td> -->
 	</tr>
   </tbody>
 </table>
