@@ -83,102 +83,115 @@ House contests also yet to be called Wednesday.
 	  <td>Not yet called</td>
 	  <td>Not yet called</td>
 	</tr>
+    <tr>
+      <td>Arizona</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Not yet called</td>
+	  <td>Not yet called</td>
+	</tr>
+    <tr>
+      <td>Arkansas</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Republican</td>
+	  <td>Republican hold</td>
+	</tr>
+    <tr>
+      <td>California</td>
+	  <td>House and Senate</td>
+	  <td>Democratic</td>
+	  <td>Democratic</td>
+	  <td>Democratic hold</td>
+	</tr>
+    <tr>
+      <td>Colorado</td>
+	  <td>House and Senate</td>
+	  <td>Democratic</td>
+	  <td>Democratic</td>
+	  <td>Democratic hold</td>
+	</tr>
+    <tr>
+      <td>Connecticut</td>
+	  <td>House and Senate</td>
+	  <td>Democratic</td>
+	  <td>Democratic</td>
+	  <td>Democratic hold</td>
+	</tr>
+    <tr>
+      <td>Delaware</td>
+	  <td>House and Senate</td>
+	  <td>Democratic</td>
+	  <td>Democratic</td>
+	  <td>Democratic hold</td>
+	</tr>
+    <tr>
+      <td>Florida</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Republican</td>
+	  <td>Republican hold</td>
+	</tr>
+    <tr>
+      <td>Georgia</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Not yet called</td>
+	  <td>Not yet called</td>
+	</tr>
+    <tr>
+      <td>Hawaii</td>
+	  <td>House and Senate</td>
+	  <td>Democratic</td>
+	  <td>Democratic</td>
+	  <td>Democratic hold</td>
+	</tr>
+    <tr>
+      <td>Idaho</td>
+	  <td>House and Senate</td>
+	  <td>Republican</td>
+	  <td>Republican</td>
+	  <td>Republican hold</td>
+	</tr>
   </tbody>
 </table>
 
-State			Chambers Up			Control Before		Control After		Result
-
-Alabama			House and Senate	Republican			Republican			Republican hold
-
-Alaska			House and Senate	Split				Not yet called		Not yet called
-
-Arizona			House and Senate	Republican			Not yet called		Not yet called
-
-Arkansas		House and Senate	Republican			Republican			Republican hold
-
-California		House and Senate	Democratic			Democratic			Democratic hold
-
-Colorado		House and Senate	Democratic			Democratic			Democratic hold
-
-Connecticut		House and Senate	Democratic			Democratic			Democratic hold
-
-Delaware		House and Senate	Democratic			Democratic			Democratic hold
-
-Florida			House and Senate	Republican			Republican			Republican hold
-
-Georgia			House and Senate	Republican			Not yet called		Not yet called
-
-Hawaii			House and Senate	Democratic			Democratic			Democratic hold
-
-Idaho			House and Senate	Republican			Republican			Republican hold
-
-Illinois		House and Senate	Democratic			Democratic			Democratic hold
-
-Indiana			House and Senate	Republican			Republican			Republican hold
-
-Iowa			House and Senate	Republican			Republican			Republican hold
-
-Kansas			House only			Republican			Republican			Republican hold
-
-Kentucky		House and Senate	Republican			Republican			Republican hold
-
-Maine			House and Senate	Democratic			Democratic			Democratic hold
-
-Maryland		House and Senate	Democratic			Democratic			Democratic hold
-
-Massachusetts	House and Senate	Democratic			Democratic			Democratic hold
-
-Michigan		House and Senate	Split				Democratic			Democratic flip (split → D)
-
-Minnesota		House and Senate	Split				Democratic			Democratic flip (split → D)
-
-Missouri		House and Senate	Republican			Republican			Republican hold
-
-Montana			House and Senate	Republican			Republican			Republican hold
-
-Nebraska		Unicameral (nonpartisan)	Republican	Republican			Republican hold
-
-Nevada			House and Senate	Democratic			Democratic			Democratic hold
-
-New Hampshire	House and Senate	Republican			Democratic			Democratic flip (R → D)
-
-New Mexico		House only			Democratic			Democratic			Democratic hold
-
-New York		House and Senate	Democratic			Democratic			Democratic hold
-
-North Carolina	House and Senate	Republican			Split				Split flip (R → split)
-
-North Dakota	House and Senate	Republican			Republican			Republican hold
-
-Ohio			House and Senate	Republican			Republican			Republican hold
-
-Oklahoma		House and Senate	Republican			Republican			Republican hold
-
-Oregon			House and Senate	Democratic			Democratic			Democratic hold
-
-Pennsylvania	House and Senate	Split				Democratic			Democratic flip (split → D)
-
-Rhode Island	House and Senate	Democratic			Democratic			Democratic hold
-
-South Carolina	House only			Republican			Republican			Republican hold
-
-South Dakota	House and Senate	Republican			Republican			Republican hold
-
-Tennessee		House and Senate	Republican			Republican			Republican hold
-
-Texas			House and Senate	Republican			Split				Split flip (R → split)
-
-Utah			House and Senate	Republican			Republican			Republican hold
-
-Vermont			House and Senate	Democratic			Democratic			Democratic hold
-
-Washington		House and Senate	Democratic			Democratic			Democratic hold
-
-West Virginia	House and Senate	Republican			Republican			Republican hold
-
-Wisconsin		House and Senate	Republican			Democratic			Democratic flip (R → D)
-
-Wyoming			House and Senate	Republican			Republican			Republican hold
+| State	| 	Chambers Up |	Control Before	|	Control After |		Result |
+|-------|---------------|-------------------|-----------------|------------|
+| Illinois | 	| House and Senate | 	Democratic	|		Democratic	|		Democratic hold |
+| Indiana			| House and Senate	| Republican	| Republican			| Republican hold |
+| Iowa			| House and Senate	| Republican		| Republican			| Republican hold |
+| Kansas			| House only			| Republican | Republican			| Republican hold |
+| Kentucky		| House and Senate	| Republican		| Republican			| Republican hold |
+| Maine			| House and Senate	| Democratic		| Democratic			| Democratic hold |
+| Maryland		| House and Senate	| Democratic		| Democratic			| Democratic hold |
+| Massachusetts	| House and Senate	| Democratic		| Democratic			| Democratic hold |
+| Michigan		| House and Senate	| Split				| Democratic			| Democratic flip (split → D) |
+| Minnesota		| House and Senate	| Split				| Democratic			| Democratic flip (split → D) |
+| Missouri		| House and Senate	| Republican		| Republican			| Republican hold |
+| Montana		| 	House and Senate	| Republican	| Republican			| Republican hold |
+| Nebraska		| Unicameral (nonpartisan)	| Republican | Republican			| Republican hold |
+| Nevada		| 	House and Senate	| Democratic	| 		Democratic		| Democratic hold |
+| New Hampshire | 	House and Senate	| Republican	| 		Democratic		| Democratic flip (R → D) |
+| New Mexico	| 	House only			| Democratic	| 		Democratic		| Democratic hold |
+| New York		| House and Senate	| Democratic		| 	Democratic			| Democratic hold |
+| North Carolina	| House and Senate	| Republican	| 		Split			| Split flip (R → split) |
+| North Dakota	| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Ohio			| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Oklahoma		| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Oregon			| House and Senate	| Democratic	| 	Democratic		| Democratic hold |
+| Pennsylvania	| House and Senate	| Split				| Democratic			| Democratic flip (split → D) |
+| Rhode Island	| House and Senate	| Democratic		| 	Democratic			| Democratic hold |
+| South Carolina	| House only	| Republican		| 	Republican			| Republican hold |
+| South Dakota	| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Tennessee		| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Texas			| House and Senate	| Republican		| 	Split				| Split flip (R → split) |
+| Utah			| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Vermont		| House and Senate	| Democratic		| 	Democratic			| Democratic hold |
+| Washington	| House and Senate	| Democratic		| 	Democratic			| Democratic hold |
+| West Virginia	| House and Senate	| Republican		| 	Republican			| Republican hold |
+| Wisconsin		| House and Senate	| Republican		| 	Democratic			| Democratic flip (R → D) |
+| Wyoming		| House and Senate	| Republican		| 	Republican			| Republican hold |
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table>
