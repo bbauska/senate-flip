@@ -159,7 +159,7 @@ House contests also yet to be called Wednesday.
 
 | State	| 	Chambers Up |	Control Before	|	Control After |		Result |
 |-------|---------------|-------------------|-----------------|------------|
-| Illinois | 	| House and Senate | 	Democratic	|		Democratic	|		Democratic hold |
+| Illinois  	| House and Senate | 	Democratic	|		Democratic	|		Democratic hold |
 | Indiana			| House and Senate	| Republican	| Republican			| Republican hold |
 | Iowa			| House and Senate	| Republican		| Republican			| Republican hold |
 | Kansas			| House only			| Republican | Republican			| Republican hold |
@@ -219,9 +219,10 @@ House contests also yet to be called Wednesday.
   </tbody>
 </table>
 
-| Democrat		| Republican | 
+<p>Democrat	/ Republican</p>
+
 | Poll Close 	| State 	| Leader | Est. Votes Counted |
-|---------------|------------|--------------|-----------|--------|--------------------|
+|---------------|------------|--------------|--------|
 | 4 p.m.		| D-Georgia	 |	Ossoff +18.1	 | 99% |
 | 				| R-Kentucky						| 	Barr +12.1	| 	99 |
 | 				| D-South Carolina					| Andrews +4.5	| 99 |
