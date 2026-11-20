@@ -1,6 +1,5 @@
 # senate-flip
-## 2026 Senate flipped blue for 120th Congress: 56-44
-
+## 2027 Senate flipped blue for 120th Congress: 56-44
 ## House flipped blue to: 256-169
 
 Seven Senate seats. At least 24 House districts. Five governorships. Twelve state legislative chambers. 
