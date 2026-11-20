@@ -1,7 +1,7 @@
 # senate-flip
-## 2026 Senate flip for 2027.
+## 2026 Senate flipped blue for 120th Congress: 56-44
 
-## Senate seats flipped 2026
+## House flipped blue to: 256-169
 
 Seven Senate seats. At least 24 House districts. Five governorships. Twelve state legislative chambers. 
 By Wednesday afternoon, that’s how far Democrats’ historic midterm rout had reached.
